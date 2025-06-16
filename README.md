@@ -1,5 +1,5 @@
-# robotics-lab2
-Laboratorio 2 Robótica Industrial  Entradas y Salidas
+# robotica-lab2
+Laboratorio 2 Robótica Industrial 
 
 El objetivo de este laboratorio consite en controlar el comportamiento del robot mediante un panel de control.
 Donde el accionamiento de un primer boton activa la ejecución de una rutina de escritura y un segundo boton activa una rutina para posicionar el robot donde sea facil colocar la herramienta de trabajo. Igualmente se asigna indicadores que se activaran mientras se este realizando la rutina respectiva.
