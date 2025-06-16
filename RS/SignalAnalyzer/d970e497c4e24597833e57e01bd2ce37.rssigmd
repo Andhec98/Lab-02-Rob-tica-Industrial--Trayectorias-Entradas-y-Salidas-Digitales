@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Metadata Version="1">
+  <Id>d970e497c4e24597833e57e01bd2ce37</Id>
+  <Name>Recording-10</Name>
+  <EventCount>6042</EventCount>
+  <StartedUtc>2023-04-14T13:04:43.6030972Z</StartedUtc>
+  <EndedUtc>2023-04-14T13:05:40.3998830Z</EndedUtc>
+  <TotalTime>47.448</TotalTime>
+  <Signals>
+    <Signal index="0" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DI_boton1" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DI_boton1" interpolationType="None" quantity="None" tag="IOSignal" />
+    <Signal index="1" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DI_boton2" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DI_boton2" interpolationType="None" quantity="None" tag="IOSignal" />
+    <Signal index="2" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DO_indicador1" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DO_indicador1" interpolationType="None" quantity="None" tag="IOSignal" />
+    <Signal index="3" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DO_indicador2" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DO_indicador2" interpolationType="None" quantity="None" tag="IOSignal" />
+    <Signal index="4" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\ROB_1\MotionSignal\3" dataType="Number" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\Total Motor Energy" interpolationType="Continuous" quantity="Energy" tag="Derived" />
+    <Signal index="5" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\ROB_1\JointSignal\J1" dataType="Number" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\Mechanical Units\ROB_1 [IRB140_6_81_C_03]\Joint\J1" interpolationType="Continuous" quantity="Angle" tag="JointSignal" />
+    <Signal index="6" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\ROB_1\JointSignal\J2" dataType="Number" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\Mechanical Units\ROB_1 [IRB140_6_81_C_03]\Joint\J2" interpolationType="Continuous" quantity="Angle" tag="JointSignal" />
+    <Signal index="7" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\ROB_1\JointSignal\J3" dataType="Number" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\Mechanical Units\ROB_1 [IRB140_6_81_C_03]\Joint\J3" interpolationType="Continuous" quantity="Angle" tag="JointSignal" />
+    <Signal index="8" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\ROB_1\JointSignal\J4" dataType="Number" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\Mechanical Units\ROB_1 [IRB140_6_81_C_03]\Joint\J4" interpolationType="Continuous" quantity="Angle" tag="JointSignal" />
+    <Signal index="9" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\ROB_1\JointSignal\J5" dataType="Number" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\Mechanical Units\ROB_1 [IRB140_6_81_C_03]\Joint\J5" interpolationType="Continuous" quantity="Angle" tag="JointSignal" />
+    <Signal index="10" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\ROB_1\JointSignal\J6" dataType="Number" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\Mechanical Units\ROB_1 [IRB140_6_81_C_03]\Joint\J6" interpolationType="Continuous" quantity="Angle" tag="JointSignal" />
+  </Signals>
+  <Sources>
+    <Source type="Station" id="{8b9829df-2176-4516-9975-fe1bb637e52e}" displayName="robotics-lab2" />
+  </Sources>
+</Metadata>

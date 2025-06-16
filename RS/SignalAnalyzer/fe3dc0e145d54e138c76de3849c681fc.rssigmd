@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Metadata Version="1">
+  <Id>fe3dc0e145d54e138c76de3849c681fc</Id>
+  <Name>Recording-7</Name>
+  <EventCount>22</EventCount>
+  <StartedUtc>2023-04-15T16:47:35.1988523Z</StartedUtc>
+  <EndedUtc>2023-04-15T16:47:43.2522250Z</EndedUtc>
+  <TotalTime>4.68</TotalTime>
+  <Signals>
+    <Signal index="0" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DI_01" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DI_01" interpolationType="None" quantity="None" tag="IOSignal" />
+    <Signal index="1" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DI_02" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DI_02" interpolationType="None" quantity="None" tag="IOSignal" />
+    <Signal index="2" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DO_01" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DO_01" interpolationType="None" quantity="None" tag="IOSignal" />
+    <Signal index="3" id="RobotStudio.ControllerSource\{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IOSignal\DO_03" dataType="Bit" displayPath="Controller Signals\#{00CC3FAF-EB3C-40EB-BA59-3885DC75BF7A}\IRB140_6_81_1\I/O System\DO_03" interpolationType="None" quantity="None" tag="IOSignal" />
+  </Signals>
+  <Sources>
+    <Source type="Station" id="{8b9829df-2176-4516-9975-fe1bb637e52e}" displayName="robotics-lab2" />
+  </Sources>
+</Metadata>
