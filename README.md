@@ -28,7 +28,7 @@ En el código se utiliza un while infinito para que se verifique de manera conti
 # Resultado
 A continuación se encuentra el link del video de la simulación en RobotStudio y el video de funcionamiento del manipulador realizando ambas trayectorias:
 
-(https://www.youtube.com/watch?v=SKYkDTBJQbU)
+https://www.youtube.com/watch?v=SKYkDTBJQbU
 
 # Referencias
 - [Manejo de señales Digitales Robot Studio Modulo I/O - Felipe Gonzalez - Robotica Plastilina UNAL](https://youtu.be/p6UeCqhBiWE)
