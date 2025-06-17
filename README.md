@@ -4,6 +4,8 @@ Laboratorio 2 Robótica Industrial
 El objetivo de este laboratorio consite en controlar el comportamiento del robot mediante un panel de control.
 Donde el accionamiento de un primer boton activa la ejecución de una rutina de escritura y un segundo boton activa una rutina para posicionar el robot donde sea facil colocar la herramienta de trabajo. Igualmente se asigna indicadores que se activaran mientras se este realizando la rutina respectiva.
 
+# Diagrama de flujo 
+
 # Configuración I/O
 Para el manejo de señales se crearon la señales respectivas en el controlador. Realizando click derecho sobre la lista de señales existentes. Especificadon el tipo de señal Digital Input para los botones y Digital Output para los indicadores.
 
