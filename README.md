@@ -8,7 +8,7 @@ Donde el accionamiento de un primer boton activa la ejecución de una rutina de 
 ![capture robotStudio signal creation](/media/Diagramaflujo.png)
 
 # Plano de planta
-
+![capture robotStudio signal creation](/media/Diagramaplanta.png)
 # Configuración I/O
 Para el manejo de señales se crearon la señales respectivas en el controlador. Realizando click derecho sobre la lista de señales existentes. Especificadon el tipo de señal Digital Input para los botones y Digital Output para los indicadores.
 
