@@ -4,6 +4,8 @@ Laboratorio 2 Robótica Industrial
 El objetivo de este laboratorio consite en controlar el comportamiento del robot mediante un panel de control.
 Donde el accionamiento de un primer boton activa la ejecución de una rutina de escritura y un segundo boton activa una rutina para posicionar el robot donde sea facil colocar la herramienta de trabajo. Igualmente se asigna indicadores que se activaran mientras se este realizando la rutina respectiva.
 
+# Diagrama de flujo 
+
 # Configuración I/O
 Para el manejo de señales se crearon la señales respectivas en el controlador. Realizando click derecho sobre la lista de señales existentes. Especificadon el tipo de señal Digital Input para los botones y Digital Output para los indicadores.
 
@@ -28,7 +30,7 @@ En el código se utiliza un while infinito para que se verifique de manera conti
 # Resultado
 A continuación se encuentra el link del video de la simulación en RobotStudio y el video de funcionamiento del manipulador realizando ambas trayectorias:
 
-(https://www.youtube.com/watch?v=SKYkDTBJQbU)
+[https://www.youtube.com/watch?v=SKYkDTBJQbU](https://youtu.be/44bD4aPc6ZU)
 
 # Referencias
 - [Manejo de señales Digitales Robot Studio Modulo I/O - Felipe Gonzalez - Robotica Plastilina UNAL](https://youtu.be/p6UeCqhBiWE)
